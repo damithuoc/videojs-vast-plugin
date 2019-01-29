@@ -11,6 +11,7 @@ Include the plugin and it's dependencies:
 <script src="vast-client.js"></script>
 <script src="video.ads.js"></script>
 <script src="videojs.vast.js"></script>
+lib/vjs.youtube.js
 ```
 
 Add "ads" and "vast" to the plugins object, and pass a url:
